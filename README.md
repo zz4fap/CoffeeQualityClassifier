@@ -134,5 +134,3 @@ If you use this project or dataset in your research, please cite:
 ```
 
 ---
-
-Let me know if you want me to generate starter code for any folder (API, app, or notebooks)!
