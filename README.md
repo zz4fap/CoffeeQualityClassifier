@@ -1,7 +1,5 @@
 # CoffeeBean Quality Classification - Mobile Application and ML Models
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 This repository contains the complete framework developed for the project **"Deep Learning-Powered Mobile Application for Coffee Bean Quality Classification"**, including:
 
 * 📱 A **Flutter-based Mobile Application** for real-time coffee bean quality classification.
@@ -116,7 +114,9 @@ Features:
 
 ## 📄 License
 
-This project is open-sourced under the **MIT License**.
+This project is licensed under the GNU General Public License v3.0 (GPL-3.0).
+
+➡️ See full license text here: https://www.gnu.org/licenses/gpl-3.0.html
 
 ---
 
