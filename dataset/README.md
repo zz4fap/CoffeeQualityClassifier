@@ -12,6 +12,13 @@ The dataset was designed to support the classification of Arabica coffee beans i
 
 ---
 
+## 📥 Dataset Access
+
+The dataset is available on **Roboflow**:
+👉 [https://app.roboflow.com/trabalho-ecc6m/typecoffee](https://app.roboflow.com/trabalho-ecc6m/typecoffee)
+
+---
+
 ## 📅 Dataset Versions Summary
 
 Throughout the research and model development phases, **30 dataset versions** were created. These versions differ in **image resolution**, **preprocessing steps**, **data augmentation techniques**, and **training-validation-test split strategies**.
@@ -62,13 +69,6 @@ The table below summarizes the key characteristics of each dataset version:
 * Some versions focused on testing specific **image sizes** (32×32, 96×96, 160×160, etc.).
 * Others evaluated different **augmentation strategies** (flipping, rotation, brightness, noise, etc.).
 * The **final version used for mobile app deployment was Version 30**.
-
----
-
-## 📥 Dataset Access
-
-The dataset is available on **Roboflow**:
-👉 [https://app.roboflow.com/trabalho-ecc6m/typecoffee](https://app.roboflow.com/trabalho-ecc6m/typecoffee)
 
 ---
 
