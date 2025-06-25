@@ -14,8 +14,8 @@ The dataset was designed to support the classification of Arabica coffee beans i
 
 ## 📥 Dataset Access
 
-The dataset is available on **Roboflow**:
-👉 [https://app.roboflow.com/trabalho-ecc6m/typecoffee](https://app.roboflow.com/trabalho-ecc6m/typecoffee)
+The final version of the dataset is available at the link:
+👉 https://drive.google.com/drive/folders/10ZDk_pMG-1LX1xbW28otzgY2A28ZYHpE?usp=drive_link
 
 ---
 
