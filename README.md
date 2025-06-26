@@ -37,11 +37,9 @@ The best-performing model (**YOLOv11-nano-cls**) was integrated into a **cross-p
 
 ## 🧬 Dataset
 
-* 📸 **Total Images:** 511 original, expanded to 1039 with augmentation.
+* 📸 **Total Images:** 511 original, expanded to 1,209 with augmentation.
 * 🏞️ **Image Resolution:** 256x256 pixels.
 * 📋 **Classes:** Soft, Hard, Slightly Fermented, Fermented, Highly Fermented.
-
-➡️ **[Dataset Download (Roboflow)](https://app.roboflow.com/trabalho-ecc6m/typecoffee)**
 
 ---
 
