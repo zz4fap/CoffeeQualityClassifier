@@ -15,13 +15,13 @@ The dataset was designed to support the classification of Arabica coffee beans i
 ## 📥 Dataset Access
 
 The final version of the dataset is available at the link:
-👉 https://drive.google.com/drive/folders/10ZDk_pMG-1LX1xbW28otzgY2A28ZYHpE?usp=drive_link
+👉 https://drive.google.com/drive/folders/1me7SdF1Lpse-5XZm1Fwqr9sXnjwCvYaF?usp=drive_link
 
 ---
 
 ## 📅 Dataset Versions Summary
 
-Throughout the research and model development phases, **30 dataset versions** were created. These versions differ in **image resolution**, **preprocessing steps**, **data augmentation techniques**, and **training-validation-test split strategies**.
+Throughout the research and model development phases, **31 dataset versions** were created. These versions differ in **image resolution**, **preprocessing steps**, **data augmentation techniques**, and **training-validation-test split strategies**.
 
 The table below summarizes the key characteristics of each dataset version:
 
@@ -61,7 +61,7 @@ The table below summarizes the key characteristics of each dataset version:
 | 28      | 451          | Train Set: 451                                    | Auto-Orient: Applied<br>Static Crop: 25-75% Horizontal & Vertical<br>Resize: Stretch to 256x256 | No augmentations                                                                                                                                                              |
 | 29      | 451          | Train Set: 451                                    | Auto-Orient: Applied<br>Resize: Stretch to 256x256                                              | No augmentations                                                                                                                                                              |
 | 30      | 1209         | Train Set: 1049<br>Valid Set: 60<br>Test Set: 100 | Auto-Orient: Applied<br>Resize: Stretch to 256x256                                              | Outputs per training example: 3<br>Flip: Horizontal, Vertical<br>90° Rotate CW/CCW<br>Rotation: ±15°                                                                          |
-
+| 31      | 1740         | Train Set: 1450<br>Valid Set: 110<br>Test Set: 180 | Auto-Orient: Applied<br>Resize: Stretch to 256x256                                              | Outputs per training example: 3<br>horizontal and vertical flips, random rotations up to +15 degrees, random zoom in/zoom out (scale) up to 20\%, and slight random variations in brightness (value) up to 20\%                                                                          |
 ---
 
 ## 📌 Notes:
