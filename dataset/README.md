@@ -68,7 +68,7 @@ The table below summarizes the key characteristics of each dataset version:
 
 * Some versions focused on testing specific **image sizes** (32×32, 96×96, 160×160, etc.).
 * Others evaluated different **augmentation strategies** (flipping, rotation, brightness, noise, etc.).
-* The **final version used for mobile app deployment was Version 30**.
+* The **final version used for mobile app deployment was Version 31**.
 
 ---
 
